@@ -1,0 +1,1 @@
+%put %bquote(%sysget(COMPUTERNAME));
